@@ -1,5 +1,5 @@
 # CSE360-HW3-Test
-- HW3Final.zip is whole code for HW2 and HW3.java, index.html which link to my java.doc.
+- HW3Final.zip is whole code for HW2 which use to test for HW3 and HW3.java.
 - HW3.java is the code I created to test 5 cases (Post Question, Delete Question, Update Question, Post Answer, and Get Answer For Question). 
 - index.html is link to my javadoc. Also, it is in HW3 javadoc.zip.(you can find it there)
 - To access the code for the project, download HW3.java file, then add it into your project where is source which has another java file you want to test.
