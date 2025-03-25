@@ -1,4 +1,4 @@
-# HW3-Test
+# CSE360-HW3-Test
 - TP2_FinishedUpdated (2).zip is whole code for HW2 and HW3.java, index.html which link to my java.doc.
 - HW3.java is the code I created to test 5 cases (Post Question, Delete Question, Update Question, Post Answer, and Get Answer For Question). 
 - index.html is link to my javadoc. Also, it is in HW3 javadoc.zip.(you can find it there)
